@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime data
+*.db
+uploads/
+thumbnails/
+temp_chunks/
+users/
+
+# Secrets / local configuration
+token.txt
+.env
+.env.*
+*.secret
+
+# Local IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated media and outputs
+extracted_audio/
+converted_files/
+playlist_videos/
+segments/
+скриншоты/
+videos/
